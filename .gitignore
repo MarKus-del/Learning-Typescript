@@ -18,3 +18,5 @@ yarn-error.log*
 .env
 .env.test
 .env*.local
+
+frontend/assets/js
